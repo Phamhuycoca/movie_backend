@@ -8,7 +8,7 @@ namespace Domain.Common;
 
 public abstract class AuditableBaseEntity
 {
-    public Guid Id { get; set; }
+    public virtual Guid Id { get; set; }
     public string CreatedBy { get; set; } = string.Empty;
     public DateTime Created { get; set; }
     public string UpdatedBy { get; set; } = string.Empty;

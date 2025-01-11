@@ -12,3 +12,7 @@ D:\BackEnd\movie\Application\obj\Debug\net8.0\refint\Application.dll
 D:\BackEnd\movie\Application\obj\Debug\net8.0\Application.pdb
 D:\BackEnd\movie\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
 D:\BackEnd\movie\Application\obj\Debug\net8.0\ref\Application.dll
+D:\BackEnd\movie\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\BackEnd\movie\Application\bin\Debug\net8.0\Domain.dll
+D:\BackEnd\movie\Application\bin\Debug\net8.0\Domain.pdb
+D:\BackEnd\movie\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

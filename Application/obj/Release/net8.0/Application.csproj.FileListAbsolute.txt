@@ -1,0 +1,15 @@
+D:\BackEnd\movie\Application\bin\Release\net8.0\Application.deps.json
+D:\BackEnd\movie\Application\bin\Release\net8.0\Application.runtimeconfig.json
+D:\BackEnd\movie\Application\bin\Release\net8.0\Application.dll
+D:\BackEnd\movie\Application\bin\Release\net8.0\Application.pdb
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.csproj.AssemblyReference.cache
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.AssemblyInfoInputs.cache
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.AssemblyInfo.cs
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.sourcelink.json
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.dll
+D:\BackEnd\movie\Application\obj\Release\net8.0\refint\Application.dll
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.pdb
+D:\BackEnd\movie\Application\obj\Release\net8.0\Application.genruntimeconfig.cache
+D:\BackEnd\movie\Application\obj\Release\net8.0\ref\Application.dll
