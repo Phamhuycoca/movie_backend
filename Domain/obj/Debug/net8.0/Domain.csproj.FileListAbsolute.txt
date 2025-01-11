@@ -1,0 +1,14 @@
+D:\BackEnd\movie\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\BackEnd\movie\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\BackEnd\movie\Domain\bin\Debug\net8.0\Domain.dll
+D:\BackEnd\movie\Domain\bin\Debug\net8.0\Domain.pdb
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.dll
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.pdb
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\BackEnd\movie\Domain\obj\Debug\net8.0\ref\Domain.dll
